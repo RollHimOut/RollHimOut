@@ -1,0 +1,3 @@
+- 👋 Hi, my name's Zip.. I'm a self taught LUA coder/dev for FiveM.
+- 📫 You can reach me on my discord @ziparoni_
+- ⚡ Join my FiveM server here >>> https://discord.gg/phantasyrp
